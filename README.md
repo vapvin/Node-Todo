@@ -6,4 +6,4 @@
 
 1. First
 
-   - [x] Settings Project
+   - [x] ~~Settings Project~~
