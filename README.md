@@ -4,4 +4,6 @@
 
 ---
 
-1. First -[x] Settings Project
+1. First
+
+   - [x] Settings Project
